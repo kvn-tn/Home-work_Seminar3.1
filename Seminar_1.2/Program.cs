@@ -17,5 +17,5 @@ if (num==num1*num1)
 }
 else
 {
-    Console.WriteLine("Число "+num+" Невляется квадратом числа "+num1);   
+    Console.WriteLine("Число "+num+" Неявляется квадратом числа "+num1);   
 }
